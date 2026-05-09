@@ -102,7 +102,7 @@ Open `http://localhost:8501` in your browser.
 | Task | Binary Classification (Positive / Negative) |
 | Framework | PyTorch |
 
-> _Add your accuracy/F1 score from the notebook here_
+> accuracy = 85.5803
 
 ---
 
