@@ -1,0 +1,18 @@
+{
+  "model_name": "tfidf-rnn-pytorch",
+  "dataset_path": "/workspace/.uploads/869001c6-2863-441f-9195-83467080e10d_IMDB Dataset.csv",
+  "samples": 49582,
+  "input_size": 5000,
+  "hidden_size": 128,
+  "num_layers": 1,
+  "epochs": 4,
+  "accuracy": 0.8866,
+  "labels": [
+    "negative",
+    "positive"
+  ],
+  "notes": [
+    "RNN deployment model aligned with the uploaded notebook approach.",
+    "Uses TF-IDF features as RNN input for a true PyTorch RNN-based sentiment classifier."
+  ]
+}
