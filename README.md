@@ -6,7 +6,7 @@ A deep learning project that classifies movie reviews as **Positive** or **Negat
 
 ## 🚀 Live Demo
 
-> _[Add your Streamlit Cloud link here after deployment]_
+> **[🚀 Live Demo](https://rnn-sentiment-analysis-4hsztw5c8vmuisxlyxxpqs.streamlit.app)**
 
 ---
 
